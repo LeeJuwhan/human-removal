@@ -18,6 +18,6 @@ mask-rcnn을 이용해서 동영상에서 사람들을 모두 검출합니다.
 
 ![results1](https://user-images.githubusercontent.com/17982163/115174470-4127ca80-a104-11eb-8e19-ec5a19545360.png)
 
-##Reference 
+## Reference 
 
 https://github.com/knazeri/edge-connect
